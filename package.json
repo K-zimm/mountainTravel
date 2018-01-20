@@ -1,0 +1,20 @@
+{
+  "name": "mountain_landing_page",
+  "version": "1.0.0",
+  "description": "A landing page for mountain tours business",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Kyle Zimmer",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "gulp-cli": "^1.4.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
